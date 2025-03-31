@@ -3,6 +3,7 @@
   "include-v-in-tag": true,
   "include-component-in-tag": true,
   "tag-separator": "@",
+  "separate-pull-requests": true,
   "packages": {
     "python": {
       "release-type": "python",
@@ -16,7 +17,7 @@
       "component": "java",
       "path" : "java",
       "extra-files": [
-        "java/calculator/pom.xml"
+        "calculator/pom.xml"
       ]
     }
   }
