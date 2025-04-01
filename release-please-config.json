@@ -3,7 +3,6 @@
   "include-v-in-tag": true,
   "include-component-in-tag": true,
   "tag-separator": "@",
-  "separate-pull-requests": true,
   "packages": {
     "python": {
       "release-type": "python",
