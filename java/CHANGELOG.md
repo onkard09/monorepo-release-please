@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/onkard09/monorepo-release-please/compare/java@v1.1.1...java@v1.1.2) (2025-04-02)
+
+
+### Bug Fixes
+
+* added new comment 2 ([374f3d6](https://github.com/onkard09/monorepo-release-please/commit/374f3d66bf0cb9c0d3e28435a8bc2543d147aca3))
+
 ## [1.1.1](https://github.com/onkard09/monorepo-release-please/compare/java@v1.1.0...java@v1.1.1) (2025-03-31)
 
 
