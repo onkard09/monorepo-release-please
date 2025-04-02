@@ -5,6 +5,7 @@ package com.example.calculator;
  *
  */
 /* New comment 1 */
+/* new comment 2 */
 public class App 
 {
     public static void main( String[] args )
