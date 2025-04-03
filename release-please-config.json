@@ -7,14 +7,12 @@
     "python": {
       "release-type": "python",
       "package-name": "python",
-      "component": "python",
-      "path" : "python"
+      "component": "python"
     },
     "java": {
       "release-type": "java",
       "package-name": "java",
       "component": "java",
-      "path" : "java",
       "extra-files": [
         "calculator/pom.xml"
       ]

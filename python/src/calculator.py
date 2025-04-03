@@ -14,4 +14,7 @@ def divide(a, b):
     return a / b
 
 def power(a, b):
-    return a ** b
+    return a ** 
+
+def sqare(a):
+    return a * a
