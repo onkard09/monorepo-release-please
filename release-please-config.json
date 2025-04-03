@@ -6,12 +6,12 @@
   "packages": {
     "python": {
       "release-type": "python",
-      "package-name": "python",
+      "package-name": "python-project",
       "component": "python"
     },
     "java": {
       "release-type": "java",
-      "package-name": "java",
+      "package-name": "calculator",
       "component": "java",
       "extra-files": [
         "calculator/pom.xml"
