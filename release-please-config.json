@@ -7,18 +7,18 @@
   "packages": {
     "python": {
       "release-type": "python",
-      "package-name": "python-project",
+      "package-name": "java",
       "component": "python"
     },
     "java": {
-      "release-type": "simple",
-      "package-name": "calculator",
+      "release-type": "maven",
+      "package-name": "java",
       "component": "java",
       "extra-files": [
         {
-          "type": "xml",
-          "path": "calculator/pom.xml",
-          "xpath": "/project/version"
+          "type": "json",
+          "path": "./.release-please-manifest.json",
+          "jsonpath": "$.java"
         }
       ]
     }
