@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/onkard09/monorepo-release-please/compare/python@v1.1.1...python@v1.2.0) (2025-04-03)
+
+
+### Features
+
+* minor code changes ([4b327aa](https://github.com/onkard09/monorepo-release-please/commit/4b327aa9d19bd99aaad02421d746ecd1fdefad76))
+
+
+### Bug Fixes
+
+* simple release type and added sample comments ([7ca02bb](https://github.com/onkard09/monorepo-release-please/commit/7ca02bb4e0a8a0c144ac76369df2f1b4193fbfe7))
+* updated code to  test release please ([08a462e](https://github.com/onkard09/monorepo-release-please/commit/08a462e73990f9490efcdf74a31ac6f63ff3b95b))
+
 ## [1.1.1](https://github.com/onkard09/monorepo-release-please/compare/python@v1.1.0...python@v1.1.1) (2025-03-31)
 
 

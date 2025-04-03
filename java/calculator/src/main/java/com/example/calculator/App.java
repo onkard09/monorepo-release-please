@@ -5,6 +5,7 @@ package com.example.calculator;
  *
  */
 /*testing using simple release type and making version update in pom.xml */
+/*testing using maven release type and updating manifest separately */
 public class App 
 {
     public static void main( String[] args )
