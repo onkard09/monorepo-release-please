@@ -4,9 +4,7 @@ package com.example.calculator;
  * Hello world!
  *
  */
-/* New comment 1 */
-/* new comment 2 */
-/* New comment 3 */
+/*testing using simple release type and making version update in pom.xml */
 public class App 
 {
     public static void main( String[] args )
