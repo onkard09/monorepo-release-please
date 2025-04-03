@@ -6,6 +6,7 @@ package com.example.calculator;
  */
 /* New comment 1 */
 /* new comment 2 */
+/* New comment 3 */
 public class App 
 {
     public static void main( String[] args )
