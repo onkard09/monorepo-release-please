@@ -15,9 +15,10 @@
       "package-name": "java",
       "component": "java",
       "extra-files": [
+        "calculator/pom.xml",
         {
           "type": "json",
-          "path": "../.release-please-manifest.json",
+          "path": ".release-please-manifest.json",
           "jsonpath": "$.java"
         }
       ]
